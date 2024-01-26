@@ -1,0 +1,27 @@
+body {
+    background-color: #ffffff; 
+}
+
+header {
+    background-color: black;
+}
+
+.headertag {
+    display: flex;
+}
+
+.tagDescription {
+    margin-left: 10px;
+
+    h4 {
+        font-weight: 700;
+        margin-top: 20px;
+    }
+
+    p {
+        padding-bottom: 20px;
+    }
+}
+
+
+
